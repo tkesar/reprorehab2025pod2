@@ -40,22 +40,21 @@
 
 ---
 
-## Week 5 - Error Handling & Debugging
+## Week 5 - Control Flow & Functions
+- Conditional statements (`if/elif/else`, `match/case`)
+- Loops (`for`, `while`)
+- Defining functions
+  
+**Outcome**: learners can write reusable code for small tasks
+
+---
+
+## Week 6 - Error Handling & Debugging
 - Common error types: `ValueError`, `TypeError`, etc.
 - Using `try/except` blocks
 - Debugging in Spyder (breakpoints, variable explorer)
   
 **Outcome**: learners are less scared of error messages and know how to inspect issues
-
----
-
-## Week 6 - Control Flow & Functions
-- Conditional statements (`if/elif/else`, `match/case`)
-- Loops (`for`, `while`)
-- Defining functions
-- Introducing to classes and objects
-  
-**Outcome**: learners can write reusable code for small tasks
 
 ---
 
@@ -69,7 +68,7 @@
 
 ## Week 8 - Learner-Driven Topics
 - Learners choose mini-topics (e.g., text processing, batch file operations, reproducible pipelines)
-- If no preference: demo on **sharing data & processing pipelines**
+- If no preference: demo on **sharing data & processing pipelines** or introducing a simple **Machine Learning technique**
 - Wrap-up: project ideas and learning paths beyond bootcamp
   
 **Outcome**: learners see direct paths to apply Python in their own work
