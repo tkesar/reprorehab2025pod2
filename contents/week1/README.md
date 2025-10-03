@@ -6,6 +6,8 @@
 
 - [Extra_material](https://colab.research.google.com/drive/1nxesF9PkmnbFwuOQcohb9YdagcX5g6mD?usp=sharing)
 
+- [Notes on dict](https://colab.research.google.com/drive/1AQ053sch5dCvHLrOWPmMD0YpH8tqyYNz?usp=sharing)
+
 # Supplements
 Here are some videos to reference in response to the questions we discussed today.
 - Introduction to Variables and Data Types: https://www.youtube.com/watch?v=t1KIazbIlzk
