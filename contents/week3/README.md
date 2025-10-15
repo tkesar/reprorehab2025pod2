@@ -1,5 +1,8 @@
 # Week 3: Tabular data with Pandas II (Intermediate)
 
+## Announcements
+Please take a moment to respond to this [survey](https://docs.google.com/forms/d/e/1FAIpQLScVtgJzi6mEKmtiRV6pQmPyGBLSpdsjZ61fFXa6ifnrUImGQQ/viewform?usp=header). We would like to hear more about your bootcamp experience so that we can improve our service.
+
 ## Requirements
 Please read the [notebook](https://colab.research.google.com/drive/1QC2NOxAtJreVjYADP_mynIzzGC3J7JCo?usp=sharing) and finish [week 3 assignment](https://colab.research.google.com/drive/1aqh6pPcYRE3rj8TamWBbI_-34Ar4xcFZ?usp=sharing).
 
