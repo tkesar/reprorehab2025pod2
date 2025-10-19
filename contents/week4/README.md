@@ -30,8 +30,13 @@ This notebook introduces the foundation of Matplotlib plotting through practical
 - Learn to use `fig.suptitle()` and `plt.tight_layout()`
 - Combine plots of different shapes and sizes (e.g., 2:1 top ratio, full-width bottom)
 - Mix multiple visualization types (`lineplot`, `hexbin`, etc.)
-- Practice organizing visual information effectively
-- 
+- Practice organizing visual information effectively 
+
+## 🧮 Assignment: [week4_assignment](https://colab.research.google.com/drive/13LFsR_O-Qln-IKpPEW14PSrKpv1Yc_II?usp=sharing)
+
+- Task 1: Timeseries with moving average & normalization
+- Task 2: Scatterplot & Histogram
+- Task 3: Custom Layout (GridSpec)
 
 ## 🧭 Extra: [Seaborn](https://colab.research.google.com/drive/1yzgobOyJnRanKoinXQj6qQzOT8sRXeS2?usp=sharing)
 This script introduces **Seaborn**, a high-level interface built on top of Matplotlib.
@@ -44,10 +49,3 @@ This script introduces **Seaborn**, a high-level interface built on top of Matpl
 - Working with time zones (`Europe/Rome`) and datetime formatting
 - Comparing **long** vs. **wide** data formats for plotting
 - Creating multi-panel figures using **FacetGrid**
-
-## 🧮 Assignment: [week4_assignment](https://colab.research.google.com/drive/13LFsR_O-Qln-IKpPEW14PSrKpv1Yc_II?usp=sharing)
-
-- Task 1: Timeseries with moving average & normalization
-- Task 2: Scatterplot & Histogram
-- Task 3: Custom Layout (GridSpec)
-
