@@ -24,7 +24,16 @@ Reference slides summarize:
 
 Use them as a lookup while you code!
 
-## 📘 Main Assignment - [`Week2_assignment.py`](https://colab.research.google.com/drive/1m-d2-PZ_9SbxWG44KY-I1wez1xIKsB93?usp=sharing)
+## 📘 Extra Notebook [Read and manipulate a CSV file](https://colab.research.google.com/drive/1xd-xEVXZFnteyWvPF5RVmCDgsu8lA84y?usp=sharing)
+
+By studying this script, you will:
+- Grasp **how to go from raw CSV to derived features** in pandas.
+- See how **basic indexing and column manipulation** scale to real data.
+- Understand **axis behavior**, **data type handling**, and **naming conventions**.
+- Gain first exposure to **data visualization** and **exporting cleaned datasets**.
+- Appreciate how to write code that's both functional and readable for collaborators.
+
+## 🧮 Main Assignment - [`Week2_assignment.py`](https://colab.research.google.com/drive/1m-d2-PZ_9SbxWG44KY-I1wez1xIKsB93?usp=sharing)
 
 You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-on data handling.
 
@@ -37,7 +46,7 @@ You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-
 
 This exercise helps you build an intuition for how datasets are organized and how to **interrogate data directly from code, without switching to Excel.
 
-## 🧭 Extra - [`Week2_extra.py`](https://colab.research.google.com/drive/1bSRzKw9X5kntkJYVPzBc5bYgpCdVtO9P?usp=sharing)
+## 🧭 Extra - [Handling Time in Pandas](https://colab.research.google.com/drive/1bSRzKw9X5kntkJYVPzBc5bYgpCdVtO9P?usp=sharing)
 
 Timestamps are evertwhere - from wearable devices to behavioral recordings.
 
