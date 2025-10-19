@@ -15,7 +15,7 @@ Get comfortable with pandas' DataFrame - how to load, inspect, reshape, and summ
 
 Once you can do this fluently, every dataset you meet (physio, motion, fNIRS, speech, etc.) will start to feel like a familiar structure waiting to be explored.
 
-## 🧩 Slides - Tabular Data Manipulation in Python I
+## 🧩 Slides - [Tabular Data Manipulation in Python I](https://docs.google.com/presentation/d/1tm2DKr1KZNaURV3C7QE2lnvFvVvNnKGAq3m_InlaVn0/edit?usp=sharing)
 
 Reference slides summarize:
 - key pandas functions (`read_csv`, `rename`, `iloc`, `loc`, `describe`),
@@ -24,7 +24,7 @@ Reference slides summarize:
 
 Use them as a lookup while you code!
 
-## 📘 Main Assignment - `Week2_assignment.py`
+## 📘 Main Assignment - [`Week2_assignment.py`](https://colab.research.google.com/drive/1m-d2-PZ_9SbxWG44KY-I1wez1xIKsB93?usp=sharing)
 
 You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-on data handling.
 
@@ -37,7 +37,7 @@ You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-
 
 This exercise helps you build an intuition for how datasets are organized and how to **interrogate data directly from code, without switching to Excel.
 
-## 🧭 Extra - `Week2_extra.py`
+## 🧭 Extra - [`Week2_extra.py`](https://colab.research.google.com/drive/1bSRzKw9X5kntkJYVPzBc5bYgpCdVtO9P?usp=sharing)
 
 Timestamps are evertwhere - from wearable devices to behavioral recordings.
 
@@ -47,9 +47,3 @@ This notebook introduces pandas' `Timestamp` and `DatetimeIndex` objects and wal
 - handle Unix time and time zones,
 - extract attributes like year, month, day, hour, etc.,
 - and compute time differences between two measurement points.
-
-- [Slides (google)](https://docs.google.com/presentation/d/1tm2DKr1KZNaURV3C7QE2lnvFvVvNnKGAq3m_InlaVn0/edit?usp=sharing)
-
-- [Assignment](https://colab.research.google.com/drive/1m-d2-PZ_9SbxWG44KY-I1wez1xIKsB93?usp=sharing)
-
-- [Extra assignment](https://colab.research.google.com/drive/1bSRzKw9X5kntkJYVPzBc5bYgpCdVtO9P?usp=sharing)
