@@ -1,4 +1,4 @@
-# Week 3: Tabular data Manipulation in Python II
+# Week 3: Tabular Data Manipulation in Python II
 
 In Week 2 you learned how to *load* and *inspect* tabular data.
 
