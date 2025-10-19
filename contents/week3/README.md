@@ -39,18 +39,6 @@ This slides summarize:
 
 Use these slides as a visual map of how each operation connects to real research workflows.
 
-## 🧭 Extra: `week3_extra.py`: [Handling Missing Data & Interpolation](https://colab.research.google.com/drive/1JQXMtaNRwnBHjwbIYkfd3W7twaiBM2Iw?usp=sharing). 
-The topic of this extra notebook is: Handling Missing values using Pandas.
-Real datasets often contain gaps or irregular timestamps.
-
-This notebook focuses on strategies to detect and fill missing values:
-- Identify missing entries using `.isna()` and summarize with `.sum()`
-- Drop incomplete rows using `.dropna()`
-- Replace or estimate missing values with `.fillna()` and `.interpolate()`
-- Compare interpolation methods (`linear`, `quadratic`, `time`) to see their effect on simulated IMU-like time-series
-
-By practicing with noisy, incomplete data, you'll gain intuition for how to reconstruct continuous signals before downstream analysis.
-
 ## 🧮 Assignment: [Week 3 assignment](https://colab.research.google.com/drive/1aqh6pPcYRE3rj8TamWBbI_-34Ar4xcFZ?usp=sharing)
 This script extends what you learned above by introducing a small *multi-subject simulation*. You'll load, combine, and reshape data across participants and measurement sessions
 
@@ -62,6 +50,18 @@ This script extends what you learned above by introducing a small *multi-subject
 - Converting between *long* and *wide* formats to prepare summary statistics
 
 This mirrors what you'd do when preparing longitudinal datasets for downstream analysis. Read this [note](https://colab.research.google.com/drive/1aJ4U7m_LdWLg_1dvCtQauiKOywgqUeU0?usp=sharing) to further understand `enumerate()` and f-string.
+
+## 🧭 Extra: `week3_extra.py`: [Handling Missing Data & Interpolation](https://colab.research.google.com/drive/1JQXMtaNRwnBHjwbIYkfd3W7twaiBM2Iw?usp=sharing). 
+The topic of this extra notebook is: Handling Missing values using Pandas.
+Real datasets often contain gaps or irregular timestamps.
+
+This notebook focuses on strategies to detect and fill missing values:
+- Identify missing entries using `.isna()` and summarize with `.sum()`
+- Drop incomplete rows using `.dropna()`
+- Replace or estimate missing values with `.fillna()` and `.interpolate()`
+- Compare interpolation methods (`linear`, `quadratic`, `time`) to see their effect on simulated IMU-like time-series
+
+By practicing with noisy, incomplete data, you'll gain intuition for how to reconstruct continuous signals before downstream analysis.
 
 ## ✨ Take-Home Message
 Data rarely arrive analysis-ready.
