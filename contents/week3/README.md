@@ -14,7 +14,7 @@ You'll explore how to:
 
 These steps mirror what researchers routinely do when handling multi-session, multi-sensor data in rehabilitation studies.
 
-## 📘 Main Notebook: [notebook](https://colab.research.google.com/drive/1QC2NOxAtJreVjYADP_mynIzzGC3J7JCo?usp=sharing)
+## 📘 Main Notebook: [Tabular Data Manipulation in Python II](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/data_wrangling_pandas_part2.py)
 This exercise uses small synthetic datasets (`sub01.csv` - `sub04.csv`) to simulate multi-subject experimental data.
 
 You'll recreate a realistic workflow:
@@ -31,7 +31,7 @@ You'll recreate a realistic workflow:
 
 It's designed as a guided exploration - print each output, observe the structure, and note how transformations affect indexing and variable names.
 
-## 🧩 Slides: Data Wrangling with Pandas: [`data_wrangling_pandas.pdf`](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/data_wrangling_pandas.pdf)
+## 🧩 Slides: [Data Wrangling with Pandas](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/data_wrangling_pandas.pdf)
 This slides summarize:
 - The logic behind *tidy data* and why *long format* simplifies visualization and stats
 - Core pandas transformations (`concat`, `merge`, `melt`, `pivot`)
@@ -39,7 +39,7 @@ This slides summarize:
 
 Use these slides as a visual map of how each operation connects to real research workflows.
 
-## 🧮 Assignment: [Week 3 assignment](https://colab.research.google.com/drive/1aqh6pPcYRE3rj8TamWBbI_-34Ar4xcFZ?usp=sharing)
+## 🧮 Assignment: [Week 3 assignment](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/Week3_assignment.py)
 This script extends what you learned above by introducing a small *multi-subject simulation*. You'll load, combine, and reshape data across participants and measurement sessions
 
 ### **You'll practice**:
@@ -49,9 +49,9 @@ This script extends what you learned above by introducing a small *multi-subject
 - Using `.str.startswith()` and `.str.endswith()` for targeted filtering
 - Converting between *long* and *wide* formats to prepare summary statistics
 
-This mirrors what you'd do when preparing longitudinal datasets for downstream analysis. Read this [note](https://colab.research.google.com/drive/1aJ4U7m_LdWLg_1dvCtQauiKOywgqUeU0?usp=sharing) to further understand `enumerate()` and f-string.
+This mirrors what you'd do when preparing longitudinal datasets for downstream analysis. Read this [note](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/enumerate.py) to further understand `enumerate()` and f-string.
 
-## 🧭 Extra: `week3_extra.py`: [Handling Missing Data & Interpolation](https://colab.research.google.com/drive/1JQXMtaNRwnBHjwbIYkfd3W7twaiBM2Iw?usp=sharing). 
+## 🧭 Extra: [Handling Missing Data & Interpolation](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week3/missing_values_pandas.py). 
 The topic of this extra notebook is: Handling Missing values using Pandas.
 Real datasets often contain gaps or irregular timestamps.
 
