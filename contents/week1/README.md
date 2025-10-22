@@ -25,7 +25,7 @@ By the end of this week, learners will be able to:
 - How Python handles range, loops, and list comprehension.
 - Comparison with MATLAB for users transitioning from it.
 
-## 📘 Extra Notebook: [More on Dictionary](https://colab.research.google.com/drive/1AQ053sch5dCvHLrOWPmMD0YpH8tqyYNz?usp=sharing)
+## 📘 Extra Notebook: [More on Dictionary](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week1/More_on_dictionary.py)
 - Deep dive into dictionary methods (`keys()`, `values()`, `items()`).
 - Difference between **calling** functions and **indexing** data(`()` vs `[]`).
 - Nested dictionary examples using mock HBCD metadata (`metadata["site"]["Levels"]`).
@@ -61,7 +61,7 @@ The assignment connects all the concepts from this week by introducing **JSON as
 - Generating basic data visualizations with labels and ranges.
 - Strengthening your understanding of data types and modules.
 
-## 🧭 Extra Assignment: [Introduction to Regular Expressions (Regex)](https://colab.research.google.com/drive/1nxesF9PkmnbFwuOQcohb9YdagcX5g6mD?usp=sharing)
+## 🧭 Extra Assignment: [Introduction to Regular Expressions (Regex)](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week1/Regular_expression_in_Python.py)
 - Learn how to match string patterns using `re` module.
 - Understand common patterns (`\d`, `\w`, `+`, `*`, `^`, `$`, `[]`).
 - Practice pattern matching in toy examples (e.g., finding digits and license plates).
