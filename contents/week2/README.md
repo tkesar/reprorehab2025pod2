@@ -15,7 +15,7 @@ Get comfortable with pandas' DataFrame - how to load, inspect, reshape, and summ
 
 Once you can do this fluently, every dataset you meet (physio, motion, fNIRS, speech, etc.) will start to feel like a familiar structure waiting to be explored.
 
-## 🧩 Slides - [Tabular Data Manipulation in Python I](https://docs.google.com/presentation/d/1tm2DKr1KZNaURV3C7QE2lnvFvVvNnKGAq3m_InlaVn0/edit?usp=sharing)
+## 🧩 Slides - [Tabular Data Manipulation in Python I](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week2/Tabular%20data%20manipulation%20in%20Python%20I.pdf)
 
 Reference slides summarize:
 - key pandas functions (`read_csv`, `rename`, `iloc`, `loc`, `describe`),
@@ -24,7 +24,7 @@ Reference slides summarize:
 
 Use them as a lookup while you code!
 
-## 📘 Extra Notebook [Read and manipulate a CSV file](https://colab.research.google.com/drive/1xd-xEVXZFnteyWvPF5RVmCDgsu8lA84y?usp=sharing)
+## 📘 Extra Notebook [Read and manipulate a CSV file](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week2/reading_csv_real_world.py)
 
 By studying this script, you will:
 - Grasp **how to go from raw CSV to derived features** in pandas.
@@ -33,7 +33,7 @@ By studying this script, you will:
 - Gain first exposure to **data visualization** and **exporting cleaned datasets**.
 - Appreciate how to write code that's both functional and readable for collaborators.
 
-## 🧮 Main Assignment - [`Week2_assignment.py`](https://colab.research.google.com/drive/1m-d2-PZ_9SbxWG44KY-I1wez1xIKsB93?usp=sharing)
+## 🧮 Main Assignment - [Week2_assignment.py](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week2/Week2_assignment.py)
 
 You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-on data handling.
 
@@ -46,7 +46,7 @@ You will use a **public wearable-sensor dataset** (PhysioNet) to practice hands-
 
 This exercise helps you build an intuition for how datasets are organized and how to **interrogate data directly from code, without switching to Excel.
 
-## 🧭 Extra - [Handling Time in Pandas](https://colab.research.google.com/drive/1bSRzKw9X5kntkJYVPzBc5bYgpCdVtO9P?usp=sharing)
+## 🧭 Extra - [Handling Time in Pandas](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week2/timestamps_pandas.py)
 
 Timestamps are evertwhere - from wearable devices to behavioral recordings.
 
@@ -56,3 +56,6 @@ This notebook introduces pandas' `Timestamp` and `DatetimeIndex` objects and wal
 - handle Unix time and time zones,
 - extract attributes like year, month, day, hour, etc.,
 - and compute time differences between two measurement points.
+
+### Video recording
+Please find the recorded pod meeting [here](https://drive.google.com/file/d/1-nWBPvSfb8lkDVZOIiYlpGz3vc3qwE3w/view?usp=drive_link)
