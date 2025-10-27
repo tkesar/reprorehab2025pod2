@@ -19,8 +19,8 @@ By the end of this week, you should be able to:
 ## 📂 Files in this Folder
 | File | Description |
 |------|--------------|
-| `Week5.py` | Main notebook/script for the week. Walkthrough with explanations and mini-tasks. |
-| `Week5_assignment.py` | Weekly assignment — practice tasks on control flow and functions. Submit this one. |
+| [`Week5.py`](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week5/Week5.py) | Main notebook/script for the week. Walkthrough with explanations and mini-tasks. |
+| [`Week5_assignment.py`](https://github.com/ohspc89/reprorehab2025/blob/students/contents/week5/Week5_assignment.py) | Weekly assignment — practice tasks on control flow and functions. Submit this one. |
 
 ---
 
