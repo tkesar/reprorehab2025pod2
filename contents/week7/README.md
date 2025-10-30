@@ -1,4 +1,4 @@
-# Week 6 Materials
+# Week 7 Materials (Will be updated soon)
 
 - [Notebook](https://colab.research.google.com/drive/1o8eRZ0qmupoBuePZkD3S0aXwGwzY0lrD?usp=sharing)
 
