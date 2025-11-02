@@ -1,6 +1,6 @@
 # reprorehab2025: Beginner MATLAB/Python Pod
 
-Learners are expected to review the weekly materials and assignments before each pod meeting. Extra assignments and notebooks are optional. This structure is designed to test a flipped-classroom model. A recording of each weekly pod meeting will be shared afterward (see the link provided in that week's README). The answer key for the weekly assignment will be uploaded to the `/submission` folder on Fridays around 5 p.m. PT.
+Learners are expected to review the weekly materials and assignments before each pod meeting. Extra assignments and notebooks are optional. This structure is designed to test a flipped-classroom model. A recording of each weekly pod meeting will be shared afterward (You need to use the account you used to apply for ReproRehab). The answer key for the weekly assignment will be uploaded to the `/submission` folder on Fridays around 5 p.m. PT.
 
 Learners focusing on MATLAB - please visit this [repository](https://github.com/ohspc89/ReproRehab2023_POD1_Playground).
 
@@ -18,7 +18,7 @@ Learners focusing on MATLAB - please visit this [repository](https://github.com/
 
 ---
 
-## Week 2 - Tabular Data with Pandas I (Basics)
+## Week 2 - Tabular Data with Pandas I (Basics) [(video)](https://drive.google.com/file/d/1-nWBPvSfb8lkDVZOIiYlpGz3vc3qwE3w/view?usp=sharing)
 - What is a **DataFrame** and why it matters
 - Load data from CSV / TSV
 - Explore data: `.head()`, `.info()`, `.describe()`
@@ -30,7 +30,7 @@ Learners focusing on MATLAB - please visit this [repository](https://github.com/
 
 ---
 
-## Week 3 - Tabular Data with Pandas II (Intermediate)
+## Week 3 - Tabular Data with Pandas II (Intermediate) [(video)](https://drive.google.com/file/d/1furlBaWV6VZUZaZ5TeKJLxzm5ltUCN4S/view?usp=sharing)
 - Filtering rows with conditions
 - Sorting data
 - Merging, concatenatig, & reshaping DataFrames
@@ -40,14 +40,14 @@ Learners focusing on MATLAB - please visit this [repository](https://github.com/
 
 ---
 
-## Week 4 - TA demo
+## Week 4 - TA demo [(video)](https://drive.google.com/file/d/19JizHOPlXXu0tZ8K53iuCPd5nyHtNeID/view?usp=sharing)
 - One TA will demonstrate her programming workflow
 
 **Outcome**: Learners will recognize that programming is rarely a linear process, but rather an iterative effort that often involves trial, error, and plenty of Googling.
 
 ---
 
-## Week 5 (previously Week 4) - Plotting with Matplotlib
+## Week 5 (previously Week 4) - Plotting with Matplotlib [(video)](https://drive.google.com/file/d/19n9z2OoCCK46f_QNpyEXU2GsgwCowiDr/view?usp=sharing)
 - Plot types: line, scatter, bar, histogram
 - Labeling axes, titles, legends
 - Customizing style (colors, markers)
